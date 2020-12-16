@@ -3,7 +3,7 @@ import RPi.GPIO as GPIO
 import time
 import spidev
 import telepot
-
+#dsdsadads
 telegram_id = '1417051484'
 my_token = '1430018325:AAFJT1QvjzRoc-jM3xYbaAX-RTq10-qPjN4'
 
